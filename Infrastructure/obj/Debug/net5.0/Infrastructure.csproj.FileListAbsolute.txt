@@ -1,0 +1,15 @@
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\SharedKernel.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\bin\Debug\net5.0\SharedKernel.pdb
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

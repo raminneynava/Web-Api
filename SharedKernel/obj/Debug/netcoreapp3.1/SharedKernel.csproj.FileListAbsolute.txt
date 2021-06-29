@@ -1,0 +1,11 @@
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.deps.json
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.runtimeconfig.json
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.runtimeconfig.dev.json
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\bin\Debug\netcoreapp3.1\SharedKernel.pdb
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.AssemblyInfo.cs
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.dll
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.pdb
+C:\Users\Ramin\Desktop\Project\AspNetCore-WebApi\RCMS-WebApi\SharedKernel\obj\Debug\netcoreapp3.1\SharedKernel.genruntimeconfig.cache
